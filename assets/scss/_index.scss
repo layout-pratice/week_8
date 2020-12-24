@@ -1,0 +1,169 @@
+
+ .banner{
+        
+
+      background: url(../images/index-9.jpeg) ;
+      background-position: center;  
+          background-size: cover;
+          height: 584px;  
+  
+ }
+ 
+
+
+
+ @media (min-width:$breakpoint-lg){
+ul li.online-preorder-pic1{
+        background: url(../images/index-5.jpeg) ;
+        background-position: center;  
+            background-size: cover;
+            height: 350px;
+            // max-width: 350px;
+    }
+ul li.online-preorder-pic2{
+        background: url(../images/index-6.jpg) ;
+        background-position: center;  
+            background-size: cover;
+            height: 350px;
+
+
+            // width: 25%;
+            
+    }
+li div.online-preorder-pic3{
+        background: url(../images/index-7.jpeg) ;
+        background-position: center;  
+         background-size: cover;
+        height: 172px;
+        
+    
+    
+    }
+li div.online-preorder-pic4{
+        background: url(../images/index-8.jpeg) ;
+        background-position: center;  
+        background-size: cover;
+        height: 172px;
+    
+    }
+ul li.online-preorder-pic5{
+        background: url(../images/index-3.jpeg) ;
+        background-position: center;  
+        background-size: cover;
+        height: 350px;
+
+    
+    
+    }
+ }
+
+
+@media (min-width:$breakpoint-md){
+    div.banner{
+        
+
+        background: url(../images/index-9.jpeg) ;
+        background-position: center;  
+            background-size: cover;
+            height: 584px;  
+    
+   }
+    li.online-preorder-pic1{
+        background: url(../images/index-5.jpeg) ;
+        background-position: center;  
+            background-size: cover;
+            height: 210px;
+            // max-width: 350px;
+    }
+    li.online-preorder-pic2{
+        background: url(../images/index-6.jpg) ;
+        background-position: center;  
+            background-size: cover;
+            height: 210px;
+
+            // width: 25%;
+            
+    }
+    div.online-preorder-pic3{
+        background: url(../images/index-7.jpeg) ;
+        background-position: center;  
+            background-size: cover;
+            height: 103px;
+
+           
+    
+    
+    }
+    div.online-preorder-pic4{
+        background: url(../images/index-8.jpeg) ;
+        background-position: center;  
+            background-size: cover;
+            height: 103px;
+    
+    }
+    li.online-preorder-pic5{
+        background: url(../images/index-3.jpeg) ;
+        background-position: center;  
+            background-size: cover;
+            height: 210px;
+
+    
+    
+    }
+}
+@media (min-width:$breakpoint-sm){
+    .banner{
+        
+
+        background: url(../images/index-9.jpeg) ;
+        background-position: center;  
+            background-size: cover;
+            height: 812px;  
+    
+   }
+    .online-preorder-pic1{
+        background: url(../images/index-5.jpeg) ;
+        background-position: center;  
+            background-size: cover;
+            height: 132px;
+            // max-width: 350px;
+    }
+    .online-preorder-pic2{
+        background: url(../images/index-6.jpg) ;
+        background-position: center;  
+            background-size: cover;
+            height: 132px;
+
+
+            // width: 25%;
+            
+    }
+    .online-preorder-pic3{
+        background: url(../images/index-7.jpeg) ;
+        background-position: center;  
+            background-size: cover;
+            height: 132px;
+
+           
+    
+    
+    }
+    .online-preorder-pic4{
+        background: url(../images/index-8.jpeg) ;
+        background-position: center;  
+            background-size: cover;
+            height: 132px;
+
+    
+    }
+    .online-preorder-pic5{
+        background: url(../images/index-3.jpeg) ;
+        background-position: center;  
+            background-size: cover;
+            height: 132px;
+
+
+    
+    
+    }
+}
